@@ -15,7 +15,7 @@ export default function Bio() {
         >
           <div className="absolute inset-0 rounded-[3rem] overflow-hidden shadow-[0_40px_80px_-20px_rgba(0,0,0,0.1)] bg-neutral-100 uppercase flex items-center justify-center group overflow-hidden">
              <img
-              src="/input_file_0.png"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-tAulx2-EMt7VPbbvYpZTHTq7ak0OxaLkMc8qU7kFXgNQaMXH67yBcRrd1Az-dC4QB-x9&s"
               alt="Daivik Bhagat Profile"
               className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
             />
